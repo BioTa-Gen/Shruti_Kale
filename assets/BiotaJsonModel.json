@@ -17,8 +17,8 @@
         "marathi": "पुणे"
     },
     "Hobby": {
-        "english": "Reading, Singing",
-        "marathi": " वाचन, गायन"
+        "english": "Love To Read Books",
+        "marathi": "पुस्तके वाचण्यास आवडते"
     },
     "PersonalInformation": {
         "FullName": {
@@ -102,12 +102,12 @@
             "marathi": "प्रयागाबाई  नानासाहेब  काळे    "
         },
         "FatherName": {
-            "english": "Prof. Ashok Nanasaheb kale ( Vinayakrao Patil College Vaijapar)",
-            "marathi": "प्रो. अशोक नानासाहेब पा. काळे (विनायकराव पाटील महाविद्यलाय वैजापर)"
+            "english": "Prof. Ashok Nanasaheb kale (D.C.E., M.A.(English)., M.Phil Vinayakrao Patil College Vaijapar)",
+            "marathi": "प्रो. अशोक नानासाहेब पा. काळे (D.C.E., M.A.(English)., M.Phil विनायकराव पाटील महाविद्यलाय वैजापर)"
         },
         "MotherName": {
-            "english": "Jyoti Ashok kale (M.A.C.B.Ed. Secondary Teacher)",
-            "marathi": "सौ. ज्योती अशोक पा. काळे ( एम.ए.सी.बी.एड. माध्यमिक शिक्षिका)"
+            "english": "Jyoti Ashok kale (M.Sc. B.Ed Secondary School Teacher)",
+            "marathi": "सौ. ज्योती अशोक पा. काळे ( एम.एस.सी.बी.एड. माध्यमिक शिक्षिका)"
         },
         "SisterName": {
             "english": null,
